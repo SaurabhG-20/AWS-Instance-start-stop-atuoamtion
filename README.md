@@ -3,11 +3,11 @@ This repository contains the script for autoamted start/stop of AWS instance.
 
 Please find the detailed description of this automation @ My blogs at medium.
 
-
+<b> Medium Blog URL:</b>
 https://saurabh-gangrade20.medium.com/aws-ec2-automation-bash-script-to-launch-start-stop-ec2-instance-ubuntu-instances-11e4c4722813
 
 
-Script : <b> get_instance_connection_command.sh</b> is an automation shell script for Starting AWS EC2 instance /Stopping EC2 Instance and Connecting EC2 Instance with SSH Command. User should know the EC2 Instance Id which is required input for this script. 
+Script : <b>[get_instance_connection_command.sh](https://github.com/SaurabhG-20/AWS-Instance-start-stop-atuoamtion/blob/main/get_instance_connection_command.sh)</b> is an automation shell script for Starting AWS EC2 instance /Stopping EC2 Instance and Connecting EC2 Instance with SSH Command. User should know the EC2 Instance Id which is required input for this script. 
 
 Here Are the following sample output achieved while executing the script.
 
